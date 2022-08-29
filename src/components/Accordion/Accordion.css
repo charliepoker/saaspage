@@ -1,0 +1,21 @@
+.accordion__container {
+  padding: 0 30%;
+}
+
+.accordion-header button {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px !important;
+  line-height: 36px;
+  font-family: "Poppins";
+  color: #000000;
+}
+
+.accordion-body {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+}

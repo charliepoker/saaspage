@@ -1,0 +1,69 @@
+/* .pricingcard__container {
+  padding: 5rem 17%;
+} */
+
+.pricingcard {
+  /* background: #c72727; */
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  padding: 7rem 5rem;
+}
+
+.pricingcard_primary {
+  background: #c72727;
+}
+.pricingcard_primary p {
+  color: #fff;
+}
+.pricingcard_primary h5 {
+  color: #fff;
+}
+.pricingcard_primary h3 {
+  color: #fff;
+}
+.pricingcard_secondary {
+  background: #fff;
+}
+.pricingcard_secondary p{
+  color: black;
+}
+.pricingcard_secondary h5{
+  color: black;
+}
+
+
+
+.pricingcard h3 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 60px;
+  padding-bottom: 4rem;
+}
+
+.pricingcard h5 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  padding-bottom: 4rem;
+}
+
+.pricingcard p {
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 30px;
+  padding-bottom: 4rem;
+  display: flex;
+  align-items: center;
+}
+
+.pricingcard p span {
+  padding-right: 3rem;
+}
+
+.pricingcard Button {
+  display: block;
+  margin: 3rem auto 2rem auto;
+}

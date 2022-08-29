@@ -1,0 +1,148 @@
+.footer__container {
+  background: #000000;
+}
+
+.footer__content {
+  padding: 8rem 5%;
+  display: flex;
+  justify-content: space-between;
+  flex:9;
+}
+
+.footer__content_contact h4 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  padding-bottom: 3rem;
+}
+
+.address {
+  display: flex;
+}
+
+.address p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  padding-left: 4rem;
+}
+
+.phoneno {
+  display: flex;
+}
+
+.phoneno p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  padding-left: 4rem;
+}
+
+.email {
+  display: flex;
+}
+
+.email p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  padding-left: 4rem;
+}
+
+.newsletter h4 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+}
+
+.newsletter p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  width: 50%;
+}
+
+.newsletter {
+  /* background: yellow; */
+  /* display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column; */
+ 
+}
+
+.footer__email_input {
+  border: none;
+  border-radius: 5px;
+  background: transparent;
+}
+
+.footer__email {
+  position: relative;
+}
+.input__line {
+  border: 0.5px solid;
+  color: #ffffff;
+  opacity: 0.5;
+  position: absolute;
+  top: 70%;
+  z-index: 9999;
+  width: 45%;
+}
+
+input[type="text"] {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  opacity: 0.5;
+  padding: 0 8rem 0 2rem;
+  z-index: -2;
+}
+
+.footer__socials {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 5%;
+}
+
+.footer__socials_icon span {
+  padding-left: 3rem;
+}
+
+.closing-line {
+  border: 2px solid #ffffff;
+  margin: 0 5%;
+}
+
+.copyright {
+  text-align: center;
+  padding: 2rem 5%;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}

@@ -1,0 +1,26 @@
+.lamp__card {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 30%;
+  margin-bottom: 5rem;
+  padding: 3rem 5rem;
+}
+
+.lamp__card__text {
+  padding-left: 2rem;
+}
+
+.lamp__card h4 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.lamp__card p {
+  font-style: normal;
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 22px;
+}

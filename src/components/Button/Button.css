@@ -1,0 +1,37 @@
+.btn__primary {
+  background: #941001;
+  padding: 1.3rem 2.5rem;
+  color: white !important;
+  outline: none;
+  border: none;
+  border-radius: 0.3rem;
+}
+
+.btn__primary:hover {
+  background: darkred;
+}
+
+.btn__primary a {
+  text-decoration: none;
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+
+.btn__secondary {
+  background: black;
+  padding: 1.3rem 2.5rem;
+  color: white !important;
+  outline: none;
+  border: none;
+  border-radius: 0.3rem;
+}
+
+.btn__white {
+  background: white;
+  padding: 1.3rem 2.5rem;
+  color: black !important;
+  outline: none;
+  border: none;
+  border-radius: 0.3rem;
+}
